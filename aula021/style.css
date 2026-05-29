@@ -1,0 +1,15 @@
+.titulo {
+    font-weight: bold;   
+    font-size: 22px;    
+    color: rgb(2, 2, 187);
+}
+
+.sinopse {
+    font-size: 16px;
+}
+
+.genero {
+    font-size: 14px;
+    color: gray;
+}
+
